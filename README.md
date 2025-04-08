@@ -35,4 +35,4 @@ This is a responsive profile overview component built with **React**, **Tailwind
 
 ```
 ## Live Project
-For the Live Demo of this Project :[Here]()
+For the Live Demo of this Project :[Here](https://vertxassign2.netlify.app/)
